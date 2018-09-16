@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileMe</string>
+    <string name="welcome">Welcome Screen</string>
+    <string name="presentation">Presentation Screen</string>
+    <string name="motivation">Motivation Screen</string>
+    <string name="welcome_text">Hi, my name is Velislava and I like to hike in the Mountains in my free time. There\'s an old mountain climbing adage, \“climb high, sleep low.\”  The same passion I have for studying. And why? Because I like learning new things and I especially enjoy classes that make me go, \“oh, that\’s why that happens!\” especially Android applications. </string>
+    <string name="presentation_text">I am a computer engineer with one year experience with Android studio and presently working with company which is involved with domain name registrations and internet support but I like to take online courses on programming and Android Basics Nanodegree by Google was the last one that I took with Udacity Inc. educational organization and thanks to Google Developer Challenge Scholarship.</string>
+    <string name="motivation_text">As I studied almost a year I am highly motivated to keep on learning and practising with Android since the tech future is all about mobile technology. Today, every invention is inclined towards mobile apps and  the smartphone usage is increasing day-by-day and it will continue.
+        I\'d like to enter to your program in order to improve my programming skills and to be part of your company future.</string>
+    <string name="view_more">View More</string>
+    <string name="to_motivation">To Motivation</string>
+</resources>

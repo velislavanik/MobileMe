@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <dimen name="letter">18sp</dimen>
+ <dimen name="margin_bottom_btn">10dp</dimen>
+</resources>
